@@ -13,6 +13,8 @@ libssl加密模块应用库；
 
 官方仓库 & download：https://github.com/openssl/openssl
 
+参考文献：https://juejin.cn/post/6844903989469773832，等待补充
+
 ## 常用方式
 
 ### 密码加密
